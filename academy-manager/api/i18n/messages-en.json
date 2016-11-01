@@ -1,0 +1,10 @@
+{
+  "unespected-error": "Unexpected error! Please try again later."
+, "record-success-inserted": "Record sucessfully added!"
+, "record-success-updated": "Record sucessfully updated!"
+, "record-success-removed": "Record sucessfully removed!"
+, "name-required": "Field name required!"
+, "cpf-required": "Field CPF required!"
+, "rg-required": "Field RG required!"
+, "email-required": "Field e-mail required!"
+}
